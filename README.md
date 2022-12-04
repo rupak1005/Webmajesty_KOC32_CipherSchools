@@ -5,5 +5,7 @@ This is our HTML project based on an E-Commerce website listing various types of
 >git clone https://github.com/rupak1005/EZEE-SHOP
 
 
->https://ezeeshop.netlify.app/
->https://rupak1005.github.io/EZEE-SHOP/
+>site: https://ezeeshop.netlify.app/
+
+
+>site: https://rupak1005.github.io/EZEE-SHOP/
