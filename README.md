@@ -12,7 +12,7 @@ This is our HTML project based on an E-Commerce website listing various types of
 
 #Prerequisites
 
-    > You should have installed git on your local machine, and a text editor, preferably VS Code.
+    You should have installed git on your local machine, and a text editor, preferably VS Code.
     
 # Setup
 
