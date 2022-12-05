@@ -4,8 +4,11 @@ This is our HTML project based on an E-Commerce website listing various types of
 
 >git clone https://github.com/rupak1005/EZEE-SHOP
 
+#LIVE LINK
 
 >site: https://ezeeshop.netlify.app/
-
-
 >site: https://rupak1005.github.io/EZEE-SHOP/
+
+#Prerequisites
+
+    You should have installed git on your local machine, and a text editor, preferably VS Code.
