@@ -8,7 +8,7 @@ This is our HTML project based on an E-Commerce website listing various types of
 
 > site: https://ezeeshop.netlify.app/
 
-> site: https://rupak1005.github.io/EZEE-SHOP/
+> site: https://rupak1005.github.io/Webmajesty_KOC32_CipherSchools/
 
 #Prerequisites
 
